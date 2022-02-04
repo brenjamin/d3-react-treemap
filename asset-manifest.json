@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/d3-react-treemap/static/css/main.9185867e.css",
+    "main.js": "/d3-react-treemap/static/js/main.ff80ffcf.js",
+    "static/js/787.65bac68f.chunk.js": "/d3-react-treemap/static/js/787.65bac68f.chunk.js",
+    "index.html": "/d3-react-treemap/index.html",
+    "main.9185867e.css.map": "/d3-react-treemap/static/css/main.9185867e.css.map",
+    "main.ff80ffcf.js.map": "/d3-react-treemap/static/js/main.ff80ffcf.js.map",
+    "787.65bac68f.chunk.js.map": "/d3-react-treemap/static/js/787.65bac68f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9185867e.css",
+    "static/js/main.ff80ffcf.js"
+  ]
+}
