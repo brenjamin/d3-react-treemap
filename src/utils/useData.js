@@ -7,7 +7,6 @@ export const useData = () => {
   useEffect(() => {
     json(url).then(data => {
       setData(data)
-      console.log(data)
     })
   }, [])
   return data
