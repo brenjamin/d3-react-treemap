@@ -1,6 +1,6 @@
 {
   "name": "treemap-d3-fcc",
-  "homepage": "https://brenjamin.github.io/d3-react-treemap-diagram",
+  "homepage": "https://brenjamin.github.io/d3-react-treemap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
